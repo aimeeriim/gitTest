@@ -1,0 +1,371 @@
+.footer{
+    top: 1000px;
+    position: absolute;
+    width: 1400px;
+    height: 234px;
+    background: white;
+    box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.03);
+}
+.footer_left{
+    
+    margin-top: 54px;
+    margin-left:130px;
+    width: 384px;
+    height: 148px;
+    float: left;
+         
+
+}
+.nav{
+position: absolute;
+display: inline-block;
+width: 83px;
+height: 18px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 126.69%;
+
+
+text-align: right;
+
+color: #000000;
+
+}
+.kitchen{
+margin-top: 28px;
+position: absolute;
+width: 39px;
+height: 18px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+//display: inline-block;
+
+}
+.hallways{
+margin-top: 28px;
+position: absolute;
+width: 67px;
+height: 18px;
+margin-left: 122px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+.cabinets{
+margin-top: 28px;
+position: absolute;
+width: 50px;
+height: 18px;
+margin-left:283px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+
+.bedrooms{
+position: absolute;
+width: 57px;
+height: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+margin-top: 53px;
+}
+.office{
+position: absolute;
+margin-top: 53px;
+margin-left: 122px;
+width: 111px;
+height: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+.mattresses{
+position: absolute;
+margin-top: 53px;
+width: 61px;
+height: 18px;
+margin-left: 283px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+
+color: #414141;
+
+}
+
+
+.room{
+position: absolute;
+width: 72px;
+height: 18px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+margin-top: 78px;
+}
+.child{
+position: absolute;
+width: 55px;
+height: 18px;
+margin-left: 122px;
+margin-top:78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+.furniture{
+position: absolute;
+width: 101px;
+height: 18px;
+margin-left:283px;
+margin-top:78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+.action{
+position: absolute;
+width: 41px;
+height: 18px;
+
+margin-top: 130px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+
+
+color: #D74444;
+}
+.new{
+position: absolute;
+width: 58px;
+height: 18px;
+margin-left: 71px;
+margin-top: 130px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+color: #414141;
+
+}
+.logo{
+    position: absolute;
+width: 60px;
+height: 49px;
+margin-left: 1212px;
+margin-top: 49px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 42px;
+line-height: 49px;
+
+color: #000000;
+
+}
+.footer_right{
+position: absolute;
+width: 481px;
+height: 84px;
+margin-left: 791px;
+margin-top: 118px;
+margin-right: 128;
+margin-bottom:32px;
+
+}
+.adress{
+position: absolute;
+width: 171px;
+height: 54px;
+margin-left:310px;
+margin-bottom:30px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+text-align: right;
+color: #414141;
+}
+.loft{
+position: absolute;
+width: 166px;
+height: 18px;
+margin:  64px 0px 2px 315px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+text-align: right;
+color: #414141;
+}
+.instagram{
+position: absolute;
+width: 68px;
+height: 15px;
+margin:67px 223px 2px 190px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 126.69%;
+text-align: right;
+color: #414141;
+}
+.telephone{
+position: absolute;
+width: 111px;
+height: 18px;
+margin:  66px 346px 0px 24px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 126.69%;
+//text-align: right;
+color: #414141;
+}
+a{
+    text-decoration: none;
+}
+
+.icon{
+    position: absolute;
+   margin-top:67px;
+   margin-left: 288px;
+   margin-bottom: 3px;
+margin-right: 176.67;
+//border: 1px solid #000000;
+}
+.icon2{
+    position: absolute;
+    margin-top:67px;
+    margin-left: 165px;
+    margin-bottom: 2px;
+ margin-right: 301;
+ //border: 1px solid #000000;
+}
+.icon3{
+    margin-top:68px;
+    margin-left: 2px;
+    
+ margin-right: 467px;
+ //border: 1px solid #000000;
+}
+
+
+
+/*block*/
+.let{
+    height: 3000px;
+    width: 100%;
+}
+.item2{
+position: absolute;
+width: 263px;
+height: 355px;
+
+
+//top: 783px;
+}
+.like{
+position: absolute;
+// left: 87.45%;
+// right: 5.89%;
+// top: 0%;
+// bottom: 95.77%;
+margin:21px 15.5px 452px 230px;
+//border: 1px solid #000000;
+}
+
+.image{
+
+position: absolute;
+left: 12.17%;
+right: 11.79%;
+top: 14.93%;
+bottom: 42.82%;
+width: 200px;
+height: 150px;
+//background: url(200x150_ffffff_100_0_2018051511144010800_0.jpg);
+margin-top:74px;
+}
+.category{
+    position: absolute;
+    margin:278px 86px 172px 20px;
+    background: #FFFFFF;
+box-shadow: 0px 1px 9px rgba(0, 0, 0, 0.11);
+
+}
+
+.toliks{
+    position: absolute;
+    margin-bottom:19px;
+
+   // margin: 278px 86px 172px 20px;
+position: absolute;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #414141;
+}
+
+.bar{
+    margin:25px  79px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+   text-align: left;
+    
+    color: #414141;
+    
+}
